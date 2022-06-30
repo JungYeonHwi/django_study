@@ -5,3 +5,4 @@ def index(request) :
     return HttpResponse("py.")
 
 # Create your views here.
+
